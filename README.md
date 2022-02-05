@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I wanted to edit the item UI to show some icon buttons to remove or edit but for some reason Android Studio's Design viewer for xml isn't working
 
 ## License
 
